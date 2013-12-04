@@ -1,0 +1,8 @@
+exit
+ls
+vi
+l
+:q
+clear
+cd
+cd ..

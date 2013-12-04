@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/matt/workspace/tasking'
+let g:netrw_dirhist_2='/home/matt/workspace/angstrom/setup-scripts/build/tmp-angstrom_v2012_05-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.12-r8/git/arch/arm/cpu/armv7/omap3'
+let g:netrw_dirhist_3='/home/matt/pandaboard/linux/arch/arm/mach-omap2'
+let g:netrw_dirhist_4='/home/matt/workspace/projects/omap4xxx/pandaboard/source/kernel/panda-v3.4/drivers/char/as2_neo5gps'
+let g:netrw_dirhist_5='/home/matt/workspace/projects/omap35xx/projects/AS2/trunk/Source/Boot/u-boot/spl/spl'
+let g:netrw_dirhist_6='/home/matt/workspace/projects/omap35xx/projects/AS2/trunk/Source/Application/ser2net'
+let g:netrw_dirhist_7='/home/matt/workspace/projects/HITCH_HIKER/trunk/Binaries/SERIAL_INSTALL'
+let g:netrw_dirhist_8='/home/matt/workspace/projects/omap35xx/projects/AS2/branches/AS2/Source/Boot/x-load'
